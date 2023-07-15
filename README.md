@@ -1,1 +1,1 @@
-The project consists of tasks from the course about automated testing in Python.
+The project consists of tasks from the course about automated testing in Python (https://stepik.org/course/575/syllabus).
